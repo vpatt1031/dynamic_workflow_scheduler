@@ -7,4 +7,4 @@ https://vpatt1031.github.io/dynamic_workflow_scheduler/
 
 # Screenshot of Workflow Calendar
 
-![alttag](dynamic_workflow_scheduler/assets/screenshot_calendar.png)
+![alttag](/Users/vanessapatterson/bc_homework/bc_homework5/dynamic_workflow_scheduler/assets/screenshot_calendar.png)
