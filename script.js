@@ -23,12 +23,3 @@ $(document).on("click", "button", function () {
     var hourKey = $(this).prev().attr("id");
     localStorage.setItem(hourKey, value);
 })
-
-
-
-
-// var resetBtn = document.createElement("resetBtn");
-// resetBtn.textContent = "Reset Schedule";
-// resetBtn.addEventListener("click", function(event) {
-//     var element = event.target;
-// });
