@@ -4,5 +4,5 @@ This application of a simple calendar was created for the busy employee. This da
 # Link to Workflow Calendar
 https://vpatt1031.github.io/dynamic_workflow_scheduler/
 
-# Screenshot of Worflow Calendar
-![alt text](dynamic_workflow_scheduler/assets/screenshot_calendar.png)
+# Screenshot of Workflow Calendar
+![alttag]("dynamic_workflow_scheduler/assets/screenshot_calendar.png")
